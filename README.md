@@ -21,7 +21,7 @@ o views.py foi feito junto com as páginas HTML e com o urls.py, e finalizei com
 # Autor
   Breno Marques
 
-##Fontes de pesquisa
+## Fontes de pesquisa
 https://docs.djangoproject.com/en/3.1/topics/db/models/]
 https://www.youtube.com/watch?v=A8t3J3iU3Gs
 https://stackoverflow.com/questions/42845698/code-is-unreachable-error/42845769
