@@ -1,8 +1,5 @@
 # Sobre o projeto
-
-## Layout web
-
-## Modelo conceitual
+Projeto criado para gerenciar Músicas pelos artistas.
 
 # Tecnologias utilizadas
 -Python
@@ -12,7 +9,4 @@
 
 # Autor
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
 
