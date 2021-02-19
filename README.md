@@ -20,6 +20,10 @@ o views.py foi feito junto com as páginas HTML e com o urls.py, e finalizei com
 
 # Autor
   Breno Marques
+  
+# Resultados
+Como resultado, aprendi as linguagens Python e Django, meus estudos estão apenas começando, pretendo continuar usando o python
+durante minha carreira de programador
 
 ## Fontes de pesquisa
 https://docs.djangoproject.com/en/3.1/topics/db/models/]
